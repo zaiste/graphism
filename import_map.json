@@ -1,0 +1,7 @@
+{
+	"imports": {
+		"http/": "https://deno.land/std@0.157.0/http/",
+		"wren/": "https://deno.land/x/wren@0.2.0/",
+		"graphql": "https://esm.sh/graphql@16.6.0"
+	}
+}
