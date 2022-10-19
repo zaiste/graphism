@@ -1,8 +1,8 @@
 {
 	"imports": {
-		"http/": "https://deno.land/std@0.157.0/http/",
-		"wren/": "https://deno.land/x/wren@0.3.0/",
-		"wren": "https://deno.land/x/wren@0.3.0/mod.ts",
+		"http/": "https://deno.land/std@0.170.0/http/",
+		"wren/": "https://deno.land/x/wren@0.8.0/",
+		"wren": "https://deno.land/x/wren@0.8.0/mod.ts",
 		"graphql": "https://esm.sh/graphql@16.6.0"
 	}
 }
