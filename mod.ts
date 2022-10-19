@@ -51,3 +51,4 @@ export const GraphQL = (pathname: string, schema: GraphQLSchema) => {
 };
 
 export * from './types.ts';
+export { GraphiQL }
